@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/firetofficial/BotClaimer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ16H7FnzL5r6GsrFVi3iuNFi7Wng91GEfz-2ofNi9qONPHGrk9u9UnQVzZt7p5XF0INnI&usqp=CAU" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/bSb0JKK.png" alt="Logo" width="220" height="48">
   </a>
   <h3 align="center">🤖 BotClaimer 🤖</h3>
 
@@ -26,7 +26,7 @@
 
 ## About The Project
 
-![Screen Shot](https://i.imgur.com/0M2UKtk.png)
+![Screenshot 2024-06-29 112305](https://github.com/firetofficial/BotClaimer/assets/120646974/6a16ffea-aa29-4c66-95f4-02c749995a4c)
 
 BotClaimer integrates multiple automated resource claiming bots into a single, streamlined interface.
 
