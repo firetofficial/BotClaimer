@@ -67,10 +67,10 @@ cd BotClaimer
 ```sh
 pip install requests
 ```
-4. Run the application `main.py`
+4. Run the application `botclaimer.py`
 
 ```sh
-python main.py
+python botclaimer.py
 ```
 
 ### Getting Your Token
