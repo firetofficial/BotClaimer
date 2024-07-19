@@ -37,12 +37,17 @@ BotClaimer integrates multiple automated resource claiming bots into a single, s
 ## Features
 
 ### Current Bots Available
-| Bot Name               | Link                                                                                   |
+|  Name               | Link                                                                                   |
 |------------------------|----------------------------------------------------------------------------------------|
-| Coinegg Miner Bot      | [Link](https://t.me/coinegg_miner_bot/miniapp?startapp=kBNoWEHfEAAY53q4c28)           |
-| ONUS Tap Tap Tap Bot   | [Link](https://t.me/onus_tap_tap_tap_bot?start=1720343272633)                           |
-| TheYescoin Bot         | [Link](https://t.me/theYescoin_bot/Yescoin?startapp=vgeCvo)                             |
-| QuackQuack Game Bot    | [Link](https://t.me/quackquack_game_bot/myapp?startapp=JjpxaUV31D)                     |
+| Coinegg Miner Bot      | [@coinegg_miner_bot](https://t.me/coinegg_miner_bot/miniapp?startapp=kBNoWEHfEAAY53q4c28)             |
+| ONUS Tap Tap Tap Bot   | [@onus_tap_tap_tap_bot](https://t.me/onus_tap_tap_tap_bot?start=1720343272633)                           |
+| TheYescoin Bot         | [@theYescoin_bot](https://t.me/theYescoin_bot/Yescoin?startapp=vgeCvo)                             |
+| QuackQuack Game Bot    | [@quackquack_game_bot](https://t.me/quackquack_game_bot/myapp?startapp=JjpxaUV31D)                     |
+|      Chickcoop         | [@chickcoopofficial_bot](https://t.me/chickcoopofficial_bot/chickcoop?startapp=ref_874616182) |
+|      Tool Pixelfarm    | [@pixel_farmm_bot](https://t.me/pixel_farmm_bot?start=8n3nbk)                     |
+|      Tool Babydogepawsbot  | [@BabyDogePAWS_Bot](https://t.me/BabyDogePAWS_Bot?start=r_874616182)                     |
+|      Tool PocketFi  | [@pocketfi_bot](https://t.me/pocketfi_bot/Mining?startapp=874616182)                     |
+|      Tool Muskempire  | [@muskempire_bot](http://t.me/muskempire_bot/game?startapp=hero874616182)                     |
 
 ## Getting Started
 
