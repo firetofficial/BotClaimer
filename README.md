@@ -48,6 +48,7 @@ BotClaimer integrates multiple automated resource claiming bots into a single, s
 |      Tool Babydogepawsbot  | [@BabyDogePAWS_Bot](https://t.me/BabyDogePAWS_Bot?start=r_874616182)                     |
 |      Tool PocketFi  | [@pocketfi_bot](https://t.me/pocketfi_bot/Mining?startapp=874616182)                     |
 |      Tool Muskempire  | [@muskempire_bot](http://t.me/muskempire_bot/game?startapp=hero874616182)                     |
+|      Tool Fartap  | [@fartapbot](https://t.me/fartapbot?start=28830805)                     |
 
 ## Getting Started
 
