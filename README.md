@@ -25,8 +25,9 @@
 * [Authors](#authors)
 
 ## About The Project
+![image](https://github.com/user-attachments/assets/26749cc3-d2fe-4929-b001-258d51997846)
 
-![Screenshot 2024-06-29 112305](https://github.com/firetofficial/BotClaimer/assets/120646974/6a16ffea-aa29-4c66-95f4-02c749995a4c)
+
 
 BotClaimer integrates multiple automated resource claiming bots into a single, streamlined interface.
 
@@ -49,7 +50,7 @@ BotClaimer integrates multiple automated resource claiming bots into a single, s
 |      Tool PocketFi  | [@pocketfi_bot](https://t.me/pocketfi_bot/Mining?startapp=874616182)                     |
 |      Tool Muskempire  | [@muskempire_bot](http://t.me/muskempire_bot/game?startapp=hero874616182)                     |
 |      Tool Fartap  | [@fartapbot](https://t.me/fartapbot?start=28830805)                     |
-
+|      Tool LovelyLegends   | [@LovelyLegends_bot](https://t.me/LovelyLegends_bot/start?startapp=kentId874616182)                     |
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps:
